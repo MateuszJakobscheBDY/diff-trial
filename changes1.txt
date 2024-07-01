@@ -7,15 +7,15 @@ lkajsfljala
 fskdjalflkajlfsjd flskadj lfa s
 #add/remove line
 s
-hey hey hey he
-hey hey hey he hey hey
+hey hey   hey he
+     hey hey hey he hey hey
 
 
 
 hey hey hey hey hey
 
 #change lines
-  hey hey hey hay
+  hey hey heyd hay
 hey hey hey hey hey
 
 hey hey 
